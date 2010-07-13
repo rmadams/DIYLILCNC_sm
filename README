@@ -1,0 +1,11 @@
+This set of sheets is a modification of the DIYLILCNC project that
+will allow it to be cut on a 12x24" lasercutter.  This required that
+the layout of the sheets be modified, as well as several of the long
+parts be changed by breaking them into parts, with staggered butted
+"t-joints" which should provide enough structural strength to be
+useful.
+
+This design is curently unproved, and will remain so until the test
+machine can be completed and the revised design verified.
+Additionally, the layout of the sheets should be optimized to remove
+unnecessary cuts, and minimize material use.
